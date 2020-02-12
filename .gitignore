@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# ignore arquivos de excel, pdf, docx, html,  etc...
+*.xlsx
+*.pdf
+*.html
+*.docx
+
+#ignorar a pasta DOCS (nao precisa colocar asterisco)
+docs
